@@ -62,7 +62,7 @@
 ## 🚀 Live Demo & Repository
 
 - 🌐 [Live Project](https://alumnet-app.vercel.app)  
-- 💻 [GitHub Repository](https://github.com/yourusername/alumnet)
+- 💻 [Project UI]("https://drive.google.com/file/d/1Ki9uEPJjJCZOYOgVOxGqD2pha4BHXkVo/view?usp=sharing")
 
 ---
 
